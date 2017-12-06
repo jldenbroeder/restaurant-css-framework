@@ -1,5 +1,20 @@
 .row [class^="col-"] {
-  background-color: #a68ebd;
+  // background-color: #a68ebd;
   border: 1px solid black;
   border-radius: 5px;
+}
+@mixin bgc-image($min-height, $url) {
+  min-height: $min-height;
+  background-image: url($url);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;
+}
+
+.bgc-head{
+   @include bgc-image(250px, "../img/restaurant-head.jpg");
 }

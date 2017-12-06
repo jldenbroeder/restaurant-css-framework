@@ -1,17 +1,13 @@
 .row [class^="col-"] {
-  /*background-color: #a68ebd;*/
   border: 1px solid black;
   border-radius: 5px; }
 
-.bgc-head{
+.bgc-head {
   min-height: 250px;
-background-image: url("assets/img/restaurant-head.jpg");
-background-repeat: no-repeat;
-background-size: 100%;
--webkit-background-size:cover;
--moz-background-size:cover;
--o-background-size:cover;
-background-size:cover;
-background-position:center;
-}
+  background-image: url("../img/restaurant-head.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-size: cover;
+  background-position: center; }
+
 /*# sourceMappingURL=style-perso.css.map */
