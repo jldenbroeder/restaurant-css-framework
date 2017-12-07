@@ -1,11 +1,35 @@
 .row [class^="col-"] {
-  // background-color: #a68ebd;
   border: 1px solid black;
   border-radius: 5px;
 }
-.nav-bgc{
+.head-bgc {
+  background-color: #1d150f;
+}
+.nav-bgc {
   background-color: #413222;
 }
-.navbar-bgc{
+.navbar-bgc {
   background-color: #5d4c3a;
+}
+.jumbotron {
+  background-color: #ffffff!important;
+}
+@mixin bgc-image( $url) {
+  background-image: url($url);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;
+}
+.bgc-noel{
+   @include bgc-image("../img/noel.jpg");
+}
+@mixin min-height($min-height) {
+  min-height: $min-height;
+}
+.min-height-noel{
+   @include min-height(250px);
 }

@@ -2,10 +2,26 @@
   border: 1px solid black;
   border-radius: 5px; }
 
+.head-bgc {
+  background-color: #1d150f; }
+
 .nav-bgc {
   background-color: #413222; }
 
 .navbar-bgc {
   background-color: #5d4c3a; }
+
+.jumbotron {
+  background-color: #ffffff !important; }
+
+.bgc-noel {
+  background-image: url("../img/noel.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-size: cover;
+  background-position: center; }
+
+.min-height-noel {
+  min-height: 250px; }
 
 /*# sourceMappingURL=style-perso.css.map */
