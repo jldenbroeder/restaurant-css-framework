@@ -2,16 +2,10 @@
   border: 1px solid black;
   border-radius: 5px; }
 
-.bloc-fonce {
-  min-height: 250px;
-  background-color: rgba(51, 34, 17, 0.7); }
+.nav-bgc {
+  background-color: #413222; }
 
-.bgc-head {
-  min-height: 250px;
-  background-image: url("../img/restaurant-head.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-size: cover;
-  background-position: center; }
+.navbar-bgc {
+  background-color: #5d4c3a; }
 
 /*# sourceMappingURL=style-perso.css.map */
