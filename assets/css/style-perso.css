@@ -2,6 +2,19 @@
   border: 1px solid black;
   border-radius: 5px; }
 
+.font-g1 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 42px; }
+
+.font-g2 {
+  font-family: 'Noticia Text', serif;
+  font-size: 18px; }
+
+.font-g3 {
+  font-family: 'Kalam', cursive;
+  font-size: 21px; }
+
 .head-bgc {
   background-color: #1d150f; }
 
@@ -14,14 +27,21 @@
 .jumbotron {
   background-color: #ffffff !important; }
 
-.bgc-noel {
-  background-image: url("../img/noel.jpg");
+.bgc-artisanal {
+  background-image: url("../img/restaurant-pave-gauche.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-size: cover;
   background-position: center; }
 
-.min-height-noel {
-  min-height: 250px; }
+.bgc-noel {
+  background-image: url("../img/restaurant-pave-droite.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-size: cover;
+  background-position: center; }
+
+.min-height-pave {
+  min-height: 236px; }
 
 /*# sourceMappingURL=style-perso.css.map */
