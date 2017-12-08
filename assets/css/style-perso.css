@@ -1,6 +1,5 @@
-.row [class^="col-"] {
-  border: 1px solid black;
-  border-radius: 5px; }
+body {
+  background-color: #d7d3ce; }
 
 .font-g1 {
   font-family: 'Dancing Script', cursive;
@@ -16,16 +15,22 @@
   font-size: 21px; }
 
 .head-bgc {
-  background-color: #1d150f; }
-
-.nav-bgc {
-  background-color: #413222; }
+  background-color: #343A40; }
 
 .navbar-bgc {
-  background-color: #5d4c3a; }
+  background-color: #424c55; }
+
+.nav-bgc {
+  background-color: #343A40; }
+
+.bgc-blanc {
+  background-color: #fff; }
+
+.bgc-beige {
+  background-color: #f0e6da; }
 
 .jumbotron {
-  background-color: #ffffff !important; }
+  background-color: #f0e6da !important; }
 
 .bgc-artisanal {
   background-image: url("../img/restaurant-pave-gauche.jpg");

@@ -1,6 +1,13 @@
-.row [class^="col-"] {
-  border: 1px solid black;
-  border-radius: 5px;
+// .row [class^="col-"] {
+//   border: 1px solid black;
+//   border-radius: 5px;
+// }
+$fonce: #343A40;
+$moyen: #424c55;
+$blanc: #fff;
+
+body{
+  background-color: #d7d3ce;
 }
 
 .font-g1 {
@@ -20,19 +27,24 @@
 }
 
 .head-bgc {
-  background-color: #1d150f;
-}
-
-.nav-bgc {
-  background-color: #413222;
+  background-color: $fonce;
 }
 
 .navbar-bgc {
-  background-color: #5d4c3a;
+  background-color: $moyen;
+}
+.nav-bgc {
+  background-color: $fonce;
 }
 
+.bgc-blanc{
+  background-color: $blanc;
+}
+.bgc-beige{
+  background-color: #f0e6da;
+}
 .jumbotron {
-  background-color: #ffffff!important;
+  background-color: #f0e6da!important;
 }
 @mixin bgc-image($url) {
   background-image: url($url);
