@@ -9,7 +9,9 @@ $blanc: #fff;
 body{
   background-color: #d7d3ce;
 }
-
+.texte-blanc{
+  color: $blanc;
+}
 .font-g1 {
   font-family: 'Dancing Script', cursive;
   font-weight: 700;
@@ -68,6 +70,9 @@ body{
   min-height: $min-height;
 }
 
-.min-height-pave {
-  @include min-height(236px);
+.min-height-pave-lg {
+  @include min-height(250px);
+}
+.min-height-pave-xs {
+  @include min-height(300px);
 }
