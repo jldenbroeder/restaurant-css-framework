@@ -1,0 +1,64 @@
+body {
+  background-color: #d7d3ce; }
+
+.texte-blanc {
+  color: #fff; }
+
+.font-g1 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 42px; }
+
+.font-g2 {
+  font-family: 'Noticia Text', serif;
+  font-size: 18px; }
+
+.font-g3 {
+  font-family: 'Kalam', cursive;
+  font-size: 21px; }
+
+.head-bgc {
+  background-color: #343A40; }
+
+.navbar-bgc {
+  background-color: #424c55; }
+
+.nav-bgc {
+  background-color: #343A40; }
+
+.bgc-blanc {
+  background-color: #fff; }
+
+.bgc-beige {
+  background-color: #f0e6da; }
+
+.jumbotron {
+  background-color: #f0e6da !important; }
+
+.bgc-artisanal {
+  background-image: url("../img/restaurant-pave-gauche.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center; }
+
+.bgc-noel {
+  background-image: url("../img/restaurant-pave-droite.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center; }
+
+.min-height-pave-lg {
+  min-height: 250px; }
+
+.min-height-pave-xs {
+  min-height: 300px; }
+
+/*# sourceMappingURL=style.css.map */
