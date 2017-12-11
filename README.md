@@ -1,17 +1,32 @@
-#Bootstrap#
+# Bootstrap #
+
+**Jean Luc Denbroeder**, Junior Web Developer by BeCode  
+
+## Exercice Bootstrap, squelette de page et réalisation d'un site fictf d'un restaurant ##
+
+[Parcours: 03 Bootstrap](https://github.com/becodeorg/Swartz-promo-3/tree/master/Parcours/03-Bootstrap)  
+
+[Exercice](https://github.com/becodeorg/Swartz-promo-3/blob/master/Parcours/03-Bootstrap/exercices.md)  
 
 
+Début: Mardi 05/12/2017  
+Durée: 4 jours  
+Lieu: Be Central  
 
-https://github.com/becodeorg/Swartz-promo-3/tree/master/Parcours/03-Bootstrap
+5 Exercices d'utilisation de la grille  
+[Repository](https://github.com/jldenbroeder/bootstrap)  
 
-https://github.com/becodeorg/Swartz-promo-3/blob/master/Parcours/03-Bootstrap/exercices.md
 
-Exercices d'utilisation de la grille
-Exercice 1 : positionnement des blocs
-Exercice 2 : éléments imbriqués
-Exercice 3 : changer l'ordre des éléments
-Exercice 4 : un avant-dernier pour la route
-Exercice 5 : réalise un layout responsive. En mobile et en desktop.
-
+Réalisation du site de restaurant (fictif)  
 
 restaurant-css-framework
+
+5 pages:
+* Accueil avec un Jumbotron et deux panneaux.
+* Carte avec les menus présentés sous forme de liste groupée avec badges.
+* Photos avec une galerie photos pagination.
+* Restaurants avec 2 adresses, plans d'accès et horaires
+* Contact avec un formulaire de contact.
+
+
+
