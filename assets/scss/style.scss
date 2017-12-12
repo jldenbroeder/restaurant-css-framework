@@ -12,6 +12,12 @@ body{
 .texte-blanc{
   color: $blanc;
 }
+.texte-droite{
+  text-align: right;
+}
+i {
+  margin-right: 10px;
+}
 .font-g1 {
   font-family: 'Dancing Script', cursive;
   font-weight: 700;
