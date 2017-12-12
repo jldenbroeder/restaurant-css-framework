@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAqB;EACnB,MAAM,EAAE,eAAe;EACvB,aAAa,EAAE,GAAG;;AAGpB,IAAI;EACF,gBAAgB,EAAE,OAAO",
+"sources": ["../scss/style-template.scss"],
+"names": [],
+"file": "style-perso-template.css"
+}
