@@ -28,4 +28,4 @@ restaurant-css-framework
 * Restaurants avec 2 adresses, plans d'accès et horaires
 * Contact avec un formulaire de contact.
 
-![Capture d'écran de la page Accueil](https://jldenbroeder.github.io/restaurant-css-framework/assets/img/capt1.jpg "Capture d'écran de la page Accueil")  
+[![Capture d'écran de la page Accueil](https://jldenbroeder.github.io/restaurant-css-framework/assets/img/capt1.jpg "Capture d'écran de la page Accueil")](https://jldenbroeder.github.io/restaurant-css-framework/restaurants.html)  
