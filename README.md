@@ -8,7 +8,7 @@
 
 [Exercice](https://github.com/becodeorg/Swartz-promo-3/blob/master/Parcours/03-Bootstrap/exercices.md)  
 
-Etat: **Terminé**
+Etat: **Terminé**  
 Début: Mardi 05/12/2017  
 Durée: 4 jours  
 Lieu: Be Central  
